@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\bin\Debug\netcoreapp3.1\atividades.exe
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\bin\Debug\netcoreapp3.1\atividades.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\bin\Debug\netcoreapp3.1\atividades.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\bin\Debug\netcoreapp3.1\atividades.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\bin\Debug\netcoreapp3.1\atividades.dll
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\bin\Debug\netcoreapp3.1\atividades.pdb
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.dll
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.pdb
+C:\Users\M4RC05 M3ND35\source\repos\atividades\atividades\obj\Debug\netcoreapp3.1\atividades.genruntimeconfig.cache

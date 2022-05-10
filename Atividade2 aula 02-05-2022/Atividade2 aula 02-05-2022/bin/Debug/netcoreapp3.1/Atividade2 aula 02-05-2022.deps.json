@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade2 aula 02-05-2022/1.0.0": {
+        "runtime": {
+          "Atividade2 aula 02-05-2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade2 aula 02-05-2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

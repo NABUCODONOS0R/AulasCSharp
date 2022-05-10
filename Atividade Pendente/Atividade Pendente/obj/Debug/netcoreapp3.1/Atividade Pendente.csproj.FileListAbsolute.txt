@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\bin\Debug\netcoreapp3.1\Atividade Pendente.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\bin\Debug\netcoreapp3.1\Atividade Pendente.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\bin\Debug\netcoreapp3.1\Atividade Pendente.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\bin\Debug\netcoreapp3.1\Atividade Pendente.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\bin\Debug\netcoreapp3.1\Atividade Pendente.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\bin\Debug\netcoreapp3.1\Atividade Pendente.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Pendente\Atividade Pendente\obj\Debug\netcoreapp3.1\Atividade Pendente.genruntimeconfig.cache

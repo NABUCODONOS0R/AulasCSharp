@@ -1,0 +1,15 @@
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\bin\Debug\net6.0\atididade28-04.exe
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\bin\Debug\net6.0\atididade28-04.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\bin\Debug\net6.0\atididade28-04.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\bin\Debug\net6.0\atididade28-04.dll
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\bin\Debug\net6.0\atididade28-04.pdb
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.dll
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\refint\atididade28-04.dll
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.pdb
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\atididade28-04.genruntimeconfig.cache
+C:\Users\M4RC05 M3ND35\source\repos\atididade28-04\atididade28-04\obj\Debug\net6.0\ref\atididade28-04.dll

@@ -1,0 +1,5 @@
+C:\Users\M4RC05 M3ND35\source\repos\atividadepeixe\atividadepeixe\obj\Debug\netcoreapp3.1\atividadepeixe.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividadepeixe\atividadepeixe\obj\Debug\netcoreapp3.1\atividadepeixe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\atividadepeixe\atividadepeixe\obj\Debug\netcoreapp3.1\atividadepeixe.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividadepeixe\atividadepeixe\obj\Debug\netcoreapp3.1\atividadepeixe.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\atividadepeixe\atividadepeixe\obj\Debug\netcoreapp3.1\atividadepeixe.csproj.CoreCompileInputs.cache

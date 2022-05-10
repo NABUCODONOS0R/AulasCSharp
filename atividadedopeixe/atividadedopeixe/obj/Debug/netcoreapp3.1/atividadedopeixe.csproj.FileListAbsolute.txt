@@ -1,0 +1,5 @@
+C:\Users\M4RC05 M3ND35\source\repos\atividadedopeixe\atividadedopeixe\obj\Debug\netcoreapp3.1\atividadedopeixe.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividadedopeixe\atividadedopeixe\obj\Debug\netcoreapp3.1\atividadedopeixe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\atividadedopeixe\atividadedopeixe\obj\Debug\netcoreapp3.1\atividadedopeixe.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\atividadedopeixe\atividadedopeixe\obj\Debug\netcoreapp3.1\atividadedopeixe.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\atividadedopeixe\atividadedopeixe\obj\Debug\netcoreapp3.1\atividadedopeixe.csproj.CoreCompileInputs.cache

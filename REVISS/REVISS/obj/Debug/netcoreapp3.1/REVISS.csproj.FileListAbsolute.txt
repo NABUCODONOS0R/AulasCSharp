@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\bin\Debug\netcoreapp3.1\REVISS.exe
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\bin\Debug\netcoreapp3.1\REVISS.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\bin\Debug\netcoreapp3.1\REVISS.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\bin\Debug\netcoreapp3.1\REVISS.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\bin\Debug\netcoreapp3.1\REVISS.dll
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\bin\Debug\netcoreapp3.1\REVISS.pdb
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.dll
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.pdb
+C:\Users\M4RC05 M3ND35\source\repos\REVISS\REVISS\obj\Debug\netcoreapp3.1\REVISS.genruntimeconfig.cache

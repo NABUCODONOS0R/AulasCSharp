@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.exe
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.dll
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\bin\Debug\netcoreapp3.1\Revisão.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.dll
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Revisão\Revisão\obj\Debug\netcoreapp3.1\Revisão.genruntimeconfig.cache

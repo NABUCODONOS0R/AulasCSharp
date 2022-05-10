@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\bin\Debug\netcoreapp3.1\Exercícios pendentes.exe
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\bin\Debug\netcoreapp3.1\Exercícios pendentes.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\bin\Debug\netcoreapp3.1\Exercícios pendentes.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\bin\Debug\netcoreapp3.1\Exercícios pendentes.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\bin\Debug\netcoreapp3.1\Exercícios pendentes.dll
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\bin\Debug\netcoreapp3.1\Exercícios pendentes.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.dll
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios pendentes\Exercícios pendentes\obj\Debug\netcoreapp3.1\Exercícios pendentes.genruntimeconfig.cache

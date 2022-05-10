@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\bin\Debug\netcoreapp3.1\Aula_05052022.exe
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\bin\Debug\netcoreapp3.1\Aula_05052022.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\bin\Debug\netcoreapp3.1\Aula_05052022.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\bin\Debug\netcoreapp3.1\Aula_05052022.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\bin\Debug\netcoreapp3.1\Aula_05052022.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\bin\Debug\netcoreapp3.1\Aula_05052022.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula_05052022\Aula_05052022\obj\Debug\netcoreapp3.1\Aula_05052022.genruntimeconfig.cache

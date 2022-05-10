@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\bin\Debug\netcoreapp3.1\Exercícios_Pendentes.exe
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\bin\Debug\netcoreapp3.1\Exercícios_Pendentes.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\bin\Debug\netcoreapp3.1\Exercícios_Pendentes.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\bin\Debug\netcoreapp3.1\Exercícios_Pendentes.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\bin\Debug\netcoreapp3.1\Exercícios_Pendentes.dll
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\bin\Debug\netcoreapp3.1\Exercícios_Pendentes.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.dll
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Exercícios_Pendentes\Exercícios_Pendentes\obj\Debug\netcoreapp3.1\Exercícios_Pendentes.genruntimeconfig.cache

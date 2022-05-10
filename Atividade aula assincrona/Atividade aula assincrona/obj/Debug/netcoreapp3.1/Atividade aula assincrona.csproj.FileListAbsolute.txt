@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\bin\Debug\netcoreapp3.1\Atividade aula assincrona.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\bin\Debug\netcoreapp3.1\Atividade aula assincrona.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\bin\Debug\netcoreapp3.1\Atividade aula assincrona.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\bin\Debug\netcoreapp3.1\Atividade aula assincrona.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\bin\Debug\netcoreapp3.1\Atividade aula assincrona.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\bin\Debug\netcoreapp3.1\Atividade aula assincrona.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade aula assincrona\Atividade aula assincrona\obj\Debug\netcoreapp3.1\Atividade aula assincrona.genruntimeconfig.cache

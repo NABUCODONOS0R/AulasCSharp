@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\bin\Debug\netcoreapp3.1\exercicio2 _funcao.exe
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\bin\Debug\netcoreapp3.1\exercicio2 _funcao.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\bin\Debug\netcoreapp3.1\exercicio2 _funcao.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\bin\Debug\netcoreapp3.1\exercicio2 _funcao.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\bin\Debug\netcoreapp3.1\exercicio2 _funcao.dll
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\bin\Debug\netcoreapp3.1\exercicio2 _funcao.pdb
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.dll
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.pdb
+C:\Users\M4RC05 M3ND35\source\repos\exercicio2 _funcao\exercicio2 _funcao\obj\Debug\netcoreapp3.1\exercicio2 _funcao.genruntimeconfig.cache

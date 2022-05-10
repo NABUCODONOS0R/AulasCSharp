@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\bin\Debug\netcoreapp3.1\Exercício array-vetores.exe
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\bin\Debug\netcoreapp3.1\Exercício array-vetores.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\bin\Debug\netcoreapp3.1\Exercício array-vetores.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\bin\Debug\netcoreapp3.1\Exercício array-vetores.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\bin\Debug\netcoreapp3.1\Exercício array-vetores.dll
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\bin\Debug\netcoreapp3.1\Exercício array-vetores.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.dll
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Exercício array-vetores\Exercício array-vetores\obj\Debug\netcoreapp3.1\Exercício array-vetores.genruntimeconfig.cache

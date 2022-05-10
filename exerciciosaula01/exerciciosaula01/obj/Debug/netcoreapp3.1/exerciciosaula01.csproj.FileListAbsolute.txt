@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\bin\Debug\netcoreapp3.1\exerciciosaula01.exe
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\bin\Debug\netcoreapp3.1\exerciciosaula01.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\bin\Debug\netcoreapp3.1\exerciciosaula01.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\bin\Debug\netcoreapp3.1\exerciciosaula01.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\bin\Debug\netcoreapp3.1\exerciciosaula01.dll
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\bin\Debug\netcoreapp3.1\exerciciosaula01.pdb
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.dll
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.pdb
+C:\Users\M4RC05 M3ND35\source\repos\exerciciosaula01\exerciciosaula01\obj\Debug\netcoreapp3.1\exerciciosaula01.genruntimeconfig.cache

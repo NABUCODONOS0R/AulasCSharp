@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\bin\Debug\netcoreapp3.1\Atividade Strings.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\bin\Debug\netcoreapp3.1\Atividade Strings.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\bin\Debug\netcoreapp3.1\Atividade Strings.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\bin\Debug\netcoreapp3.1\Atividade Strings.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\bin\Debug\netcoreapp3.1\Atividade Strings.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\bin\Debug\netcoreapp3.1\Atividade Strings.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Strings\Atividade Strings\obj\Debug\netcoreapp3.1\Atividade Strings.genruntimeconfig.cache

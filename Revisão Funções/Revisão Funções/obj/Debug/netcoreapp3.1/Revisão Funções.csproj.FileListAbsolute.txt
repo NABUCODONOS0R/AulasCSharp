@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\bin\Debug\netcoreapp3.1\Revisão Funções.exe
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\bin\Debug\netcoreapp3.1\Revisão Funções.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\bin\Debug\netcoreapp3.1\Revisão Funções.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\bin\Debug\netcoreapp3.1\Revisão Funções.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\bin\Debug\netcoreapp3.1\Revisão Funções.dll
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\bin\Debug\netcoreapp3.1\Revisão Funções.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.dll
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Revisão Funções\Revisão Funções\obj\Debug\netcoreapp3.1\Revisão Funções.genruntimeconfig.cache
