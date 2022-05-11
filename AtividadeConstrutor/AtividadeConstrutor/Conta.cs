@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PropertiesBanco
+namespace AtividadeConstrutor
 {
     internal class Conta
     {
         public int NumeroConta { get; set; }
         public int Agencia { get; set; }
         public string Nome { get; set; }
-        public double Saldo { get; private set; }
+        public double Saldo{ get; private set; }
 
         public Conta()
         {
@@ -36,12 +36,13 @@ namespace PropertiesBanco
 
         public override string ToString()
         {
-            return "Usuário: " + Nome + "\nAgência: " + Agencia + "\nNúmero da Conta: " + NumeroConta + "\nSaldo R$ " + Saldo.ToString("F2");
+            return "Usuário da Conta: " + Nome + "\nAgencia: " + Agencia + "\nConta: " + NumeroConta + "\nSaldo R$ " + Saldo.ToString("F2");
+
         }
 
 
 
+
+
     }
-
-
 }

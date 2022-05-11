@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\bin\Debug\netcoreapp3.1\AtividadeConstrutor.exe
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\bin\Debug\netcoreapp3.1\AtividadeConstrutor.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\bin\Debug\netcoreapp3.1\AtividadeConstrutor.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\bin\Debug\netcoreapp3.1\AtividadeConstrutor.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\bin\Debug\netcoreapp3.1\AtividadeConstrutor.dll
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\bin\Debug\netcoreapp3.1\AtividadeConstrutor.pdb
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.dll
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.pdb
+C:\Users\M4RC05 M3ND35\source\repos\AtividadeConstrutor\AtividadeConstrutor\obj\Debug\netcoreapp3.1\AtividadeConstrutor.genruntimeconfig.cache

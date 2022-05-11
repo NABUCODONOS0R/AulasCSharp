@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\bin\Debug\netcoreapp3.1\PropertiesBanco.exe
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\bin\Debug\netcoreapp3.1\PropertiesBanco.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\bin\Debug\netcoreapp3.1\PropertiesBanco.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\bin\Debug\netcoreapp3.1\PropertiesBanco.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\bin\Debug\netcoreapp3.1\PropertiesBanco.dll
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\bin\Debug\netcoreapp3.1\PropertiesBanco.pdb
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.dll
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.pdb
+C:\Users\M4RC05 M3ND35\source\repos\PropertiesBanco\PropertiesBanco\obj\Debug\netcoreapp3.1\PropertiesBanco.genruntimeconfig.cache
