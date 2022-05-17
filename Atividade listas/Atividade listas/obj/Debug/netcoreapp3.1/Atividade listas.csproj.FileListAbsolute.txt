@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\bin\Debug\netcoreapp3.1\Atividade listas.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\bin\Debug\netcoreapp3.1\Atividade listas.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\bin\Debug\netcoreapp3.1\Atividade listas.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\bin\Debug\netcoreapp3.1\Atividade listas.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\bin\Debug\netcoreapp3.1\Atividade listas.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\bin\Debug\netcoreapp3.1\Atividade listas.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade listas\Atividade listas\obj\Debug\netcoreapp3.1\Atividade listas.genruntimeconfig.cache

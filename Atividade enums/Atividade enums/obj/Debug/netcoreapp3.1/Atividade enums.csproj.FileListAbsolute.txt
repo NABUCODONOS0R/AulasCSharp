@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\bin\Debug\netcoreapp3.1\Atividade enums.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\bin\Debug\netcoreapp3.1\Atividade enums.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\bin\Debug\netcoreapp3.1\Atividade enums.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\bin\Debug\netcoreapp3.1\Atividade enums.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\bin\Debug\netcoreapp3.1\Atividade enums.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\bin\Debug\netcoreapp3.1\Atividade enums.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade enums\Atividade enums\obj\Debug\netcoreapp3.1\Atividade enums.genruntimeconfig.cache

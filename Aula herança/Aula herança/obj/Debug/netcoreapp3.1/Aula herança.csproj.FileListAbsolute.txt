@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\bin\Debug\netcoreapp3.1\Aula herança.exe
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\bin\Debug\netcoreapp3.1\Aula herança.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\bin\Debug\netcoreapp3.1\Aula herança.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\bin\Debug\netcoreapp3.1\Aula herança.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\bin\Debug\netcoreapp3.1\Aula herança.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\bin\Debug\netcoreapp3.1\Aula herança.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula herança\Aula herança\obj\Debug\netcoreapp3.1\Aula herança.genruntimeconfig.cache

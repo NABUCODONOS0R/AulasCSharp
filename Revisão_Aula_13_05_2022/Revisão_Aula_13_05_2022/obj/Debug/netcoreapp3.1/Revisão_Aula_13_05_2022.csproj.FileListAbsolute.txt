@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\bin\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.exe
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\bin\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\bin\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\bin\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\bin\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.dll
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\bin\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.dll
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Revisão_Aula_13_05_2022\Revisão_Aula_13_05_2022\obj\Debug\netcoreapp3.1\Revisão_Aula_13_05_2022.genruntimeconfig.cache

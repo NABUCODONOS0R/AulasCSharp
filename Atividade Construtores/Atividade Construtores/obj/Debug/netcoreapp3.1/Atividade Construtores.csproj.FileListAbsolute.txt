@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\bin\Debug\netcoreapp3.1\Atividade Construtores.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\bin\Debug\netcoreapp3.1\Atividade Construtores.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\bin\Debug\netcoreapp3.1\Atividade Construtores.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\bin\Debug\netcoreapp3.1\Atividade Construtores.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\bin\Debug\netcoreapp3.1\Atividade Construtores.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\bin\Debug\netcoreapp3.1\Atividade Construtores.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Construtores\Atividade Construtores\obj\Debug\netcoreapp3.1\Atividade Construtores.genruntimeconfig.cache
