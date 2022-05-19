@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\bin\Debug\netcoreapp3.1\AULA17-05.exe
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\bin\Debug\netcoreapp3.1\AULA17-05.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\bin\Debug\netcoreapp3.1\AULA17-05.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\bin\Debug\netcoreapp3.1\AULA17-05.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\bin\Debug\netcoreapp3.1\AULA17-05.dll
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\bin\Debug\netcoreapp3.1\AULA17-05.pdb
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.dll
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.pdb
+C:\Users\M4RC05 M3ND35\source\repos\AULA17-05\AULA17-05\obj\Debug\netcoreapp3.1\AULA17-05.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\bin\Debug\netcoreapp3.1\Aula 18-05-2022.exe
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\bin\Debug\netcoreapp3.1\Aula 18-05-2022.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\bin\Debug\netcoreapp3.1\Aula 18-05-2022.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\bin\Debug\netcoreapp3.1\Aula 18-05-2022.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\bin\Debug\netcoreapp3.1\Aula 18-05-2022.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\bin\Debug\netcoreapp3.1\Aula 18-05-2022.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula 18-05-2022\Aula 18-05-2022\obj\Debug\netcoreapp3.1\Aula 18-05-2022.genruntimeconfig.cache
