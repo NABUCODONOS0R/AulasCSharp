@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade DataTime", "Atividade DataTime\Atividade DataTime.csproj", "{06C460A5-839B-4E19-A1E3-C0E7FE9889CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C460A5-839B-4E19-A1E3-C0E7FE9889CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C460A5-839B-4E19-A1E3-C0E7FE9889CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C460A5-839B-4E19-A1E3-C0E7FE9889CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C460A5-839B-4E19-A1E3-C0E7FE9889CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC8C75A-6348-4099-B8C4-1EEF4D0F9F32}
+	EndGlobalSection
+EndGlobal

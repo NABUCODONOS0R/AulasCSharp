@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\bin\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Herança e Polimorfismo\Atividade Herança e Polimorfismo\obj\Debug\netcoreapp3.1\Atividade Herança e Polimorfismo.genruntimeconfig.cache

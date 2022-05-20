@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\bin\Debug\netcoreapp3.1\Atividade DataTime.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\bin\Debug\netcoreapp3.1\Atividade DataTime.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\bin\Debug\netcoreapp3.1\Atividade DataTime.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\bin\Debug\netcoreapp3.1\Atividade DataTime.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\bin\Debug\netcoreapp3.1\Atividade DataTime.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\bin\Debug\netcoreapp3.1\Atividade DataTime.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade DataTime\Atividade DataTime\obj\Debug\netcoreapp3.1\Atividade DataTime.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\bin\Debug\netcoreapp3.1\Atividade 01 Arquivos.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\bin\Debug\netcoreapp3.1\Atividade 01 Arquivos.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\bin\Debug\netcoreapp3.1\Atividade 01 Arquivos.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\bin\Debug\netcoreapp3.1\Atividade 01 Arquivos.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\bin\Debug\netcoreapp3.1\Atividade 01 Arquivos.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\bin\Debug\netcoreapp3.1\Atividade 01 Arquivos.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade 01 Arquivos\Atividade 01 Arquivos\obj\Debug\netcoreapp3.1\Atividade 01 Arquivos.genruntimeconfig.cache
