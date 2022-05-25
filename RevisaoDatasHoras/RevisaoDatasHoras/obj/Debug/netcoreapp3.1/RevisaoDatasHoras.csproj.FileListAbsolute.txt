@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\bin\Debug\netcoreapp3.1\RevisaoDatasHoras.exe
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\bin\Debug\netcoreapp3.1\RevisaoDatasHoras.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\bin\Debug\netcoreapp3.1\RevisaoDatasHoras.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\bin\Debug\netcoreapp3.1\RevisaoDatasHoras.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\bin\Debug\netcoreapp3.1\RevisaoDatasHoras.dll
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\bin\Debug\netcoreapp3.1\RevisaoDatasHoras.pdb
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.dll
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.pdb
+C:\Users\M4RC05 M3ND35\source\repos\RevisaoDatasHoras\RevisaoDatasHoras\obj\Debug\netcoreapp3.1\RevisaoDatasHoras.genruntimeconfig.cache
