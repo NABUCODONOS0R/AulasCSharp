@@ -25,9 +25,9 @@ namespace Aula_Exception_23_05_2022.Entities
 
         public void VerificarErro(string nome)
         {
-            if(nome.Length < 3)
+            if(nome.Length < 3)//se o nome for menor que 3 caracteres.
             {
-                throw new ExcecaoProduto("O nome não pode conter menos que 3 caracteres. ");
+                throw new ExcecaoProduto("O nome não pode conter menos que 3 caracteres. ");//retorna essa frase.
             }
 
         }
