@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\bin\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.exe
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\bin\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\bin\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\bin\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\bin\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.dll
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\bin\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.pdb
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.dll
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.pdb
+C:\Users\M4RC05 M3ND35\source\repos\ThreadsTaskInterface_26_05 _22\ThreadsTaskInterface_26_05 _22\obj\Debug\netcoreapp3.1\ThreadsTaskInterface_26_05 _22.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\bin\Debug\netcoreapp3.1\Atividade Delegate.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\bin\Debug\netcoreapp3.1\Atividade Delegate.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\bin\Debug\netcoreapp3.1\Atividade Delegate.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\bin\Debug\netcoreapp3.1\Atividade Delegate.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\bin\Debug\netcoreapp3.1\Atividade Delegate.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\bin\Debug\netcoreapp3.1\Atividade Delegate.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade Delegate\Atividade Delegate\obj\Debug\netcoreapp3.1\Atividade Delegate.genruntimeconfig.cache

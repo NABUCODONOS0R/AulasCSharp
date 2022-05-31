@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InterfacesAula_26_05_2022/1.0.0": {
+        "runtime": {
+          "InterfacesAula_26_05_2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacesAula_26_05_2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
