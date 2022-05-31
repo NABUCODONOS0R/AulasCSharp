@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\bin\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.exe
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\bin\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\bin\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\bin\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\bin\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\bin\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.dll
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Aula_27_05_2022_Polimorfismo\Aula_27_05_2022_Polimorfismo\obj\Debug\netcoreapp3.1\Aula_27_05_2022_Polimorfismo.genruntimeconfig.cache
