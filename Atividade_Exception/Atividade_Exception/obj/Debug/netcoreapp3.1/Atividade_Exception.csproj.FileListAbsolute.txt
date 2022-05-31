@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\bin\Debug\netcoreapp3.1\Atividade_Exception.exe
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\bin\Debug\netcoreapp3.1\Atividade_Exception.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\bin\Debug\netcoreapp3.1\Atividade_Exception.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\bin\Debug\netcoreapp3.1\Atividade_Exception.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\bin\Debug\netcoreapp3.1\Atividade_Exception.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\bin\Debug\netcoreapp3.1\Atividade_Exception.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.dll
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.pdb
+C:\Users\M4RC05 M3ND35\source\repos\Atividade_Exception\Atividade_Exception\obj\Debug\netcoreapp3.1\Atividade_Exception.genruntimeconfig.cache
