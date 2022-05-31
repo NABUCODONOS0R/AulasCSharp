@@ -1,0 +1,14 @@
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\bin\Debug\netcoreapp3.1\ExercíciosdeTeste.exe
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\bin\Debug\netcoreapp3.1\ExercíciosdeTeste.deps.json
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\bin\Debug\netcoreapp3.1\ExercíciosdeTeste.runtimeconfig.json
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\bin\Debug\netcoreapp3.1\ExercíciosdeTeste.runtimeconfig.dev.json
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\bin\Debug\netcoreapp3.1\ExercíciosdeTeste.dll
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\bin\Debug\netcoreapp3.1\ExercíciosdeTeste.pdb
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.AssemblyInfoInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.AssemblyInfo.cs
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.dll
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.pdb
+C:\Users\M4RC05 M3ND35\source\repos\ExercíciosdeTeste\ExercíciosdeTeste\obj\Debug\netcoreapp3.1\ExercíciosdeTeste.genruntimeconfig.cache
