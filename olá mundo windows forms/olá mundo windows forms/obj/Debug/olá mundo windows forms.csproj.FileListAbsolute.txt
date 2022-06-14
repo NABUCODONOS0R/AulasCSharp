@@ -1,0 +1,11 @@
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\bin\Debug\olá mundo windows forms.exe.config
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\bin\Debug\olá mundo windows forms.exe
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\bin\Debug\olá mundo windows forms.pdb
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá mundo windows forms.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá mundo windows forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá_mundo_windows_forms.Form1.resources
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá_mundo_windows_forms.Properties.Resources.resources
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá mundo windows forms.csproj.GenerateResource.cache
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá mundo windows forms.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá mundo windows forms.exe
+C:\Users\M4RC05 M3ND35\source\repos\olá mundo windows forms\olá mundo windows forms\obj\Debug\olá mundo windows forms.pdb

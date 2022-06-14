@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olá mundo windows forms", "olá mundo windows forms\olá mundo windows forms.csproj", "{8D319E9A-0D98-4F5C-9E93-B9F3F440E400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D319E9A-0D98-4F5C-9E93-B9F3F440E400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D319E9A-0D98-4F5C-9E93-B9F3F440E400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D319E9A-0D98-4F5C-9E93-B9F3F440E400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D319E9A-0D98-4F5C-9E93-B9F3F440E400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE8B1D1-3BE3-4EAC-ACA5-46EC32C1EE3B}
+	EndGlobalSection
+EndGlobal
