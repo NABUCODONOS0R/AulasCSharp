@@ -1,0 +1,11 @@
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\bin\Debug\PrimeiroWebServiceTentativa2.exe.config
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\bin\Debug\PrimeiroWebServiceTentativa2.exe
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\bin\Debug\PrimeiroWebServiceTentativa2.pdb
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.csproj.AssemblyReference.cache
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.csproj.SuggestedBindingRedirects.cache
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.Form1.resources
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.Properties.Resources.resources
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.csproj.GenerateResource.cache
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.csproj.CoreCompileInputs.cache
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.exe
+C:\Users\M4RC05 M3ND35\source\repos\PrimeiroWebServiceTentativa2\PrimeiroWebServiceTentativa2\obj\Debug\PrimeiroWebServiceTentativa2.pdb
